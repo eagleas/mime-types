@@ -859,6 +859,7 @@ application/zip @zip :base64 'IANA,[Lindner]
 *application/x-msdownload @exe,com :base64
 *application/x-netcdf @nc,cdf
 *application/x-ns-proxy-autoconfig @pac
+*application/x-opera-extension @oex
 *application/x-pagemaker @pm,pm5,pt5
 *application/x-perl @pl,pm :8bit
 *application/x-pgp
